@@ -13,7 +13,7 @@ ocp-baseinfo-web ，Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理�
 
 ### 二、Git 仓库地址 (欢迎 Star⭐)
 
-- http://gitlab.ynyc.com/one-card-pass/ocp-baseinfo-web
+- https://github.com/MessiHL/taa-admin.git
 
 ### 四、🔨🔨🔨 项目功能
 
@@ -37,7 +37,7 @@ ocp-baseinfo-web ，Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理�
 
 ```text
 # GitHub
-git clone http://gitlab.ynyc.com/one-card-pass/ocp-baseinfo-web.git
+git clone https://github.com/MessiHL/taa-admin.git
 ```
 
 - **Install：**
