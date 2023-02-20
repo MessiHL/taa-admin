@@ -1,8 +1,8 @@
-# ocp-baseinfo-web 管理系统（ 🎉🎉）
+# taa--travel agent assistant 旅行社助手管理系统（ 🎉🎉）
 
 ### 前言 📖
 
-ocp-baseinfo-web ，Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统。
+taa--旅行社助手--travel agent assistant ，Vue 3.2 + TypeScript + Pinia + Vite2 + Element-Plus 管理系统。
 参考: Geeker Admin、 vben-admin
 
 ### 项目相关文档 📚
